@@ -1,6 +1,5 @@
 # Breast-Cancer-Classification-with-PCA-vs-without-PCA
-This project aims to **classify breast tumors** as **malignant** or **benign** using the **Breast Cancer Wisconsin (Diagnostic) Dataset** from Kaggle.  
-The approach applies **Principal Component Analysis (PCA)** for dimensionality reduction and various **Machine Learning models** for prediction.
+This project aims to **classify breast tumors** as **malignant** or **benign** using the **Breast Cancer Wisconsin (Diagnostic) Dataset** from Kaggle. The approach applies **Principal Component Analysis (PCA)** for dimensionality reduction and various **Machine Learning models** for prediction.
 
 ---
 
